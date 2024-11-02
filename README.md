@@ -36,6 +36,6 @@ A **ApexVips** é a ferramenta ideal para quem deseja uma **gestão de grupos VI
 
 ---
 
-❓ **Dúvidas? Suporte no Telegram:** Contate nossa equipe pelo **@SuporteApexVipsBot** para ajuda personalizada sempre que precisar.
+**❓ Dúvidas? Suporte no Telegram:** Contate nossa equipe ou acesse nosso site apexvips.com para obter ajuda personalizada sempre que precisar!
 
 **Comece com a ApexVips** e leve sua gestão de grupos VIP no Telegram a um novo patamar!
